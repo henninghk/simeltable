@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simeltable", "simeltable\simeltable.csproj", "{CEC6609B-FFFE-4F8F-9644-CF9D98C6A50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC6609B-FFFE-4F8F-9644-CF9D98C6A50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC6609B-FFFE-4F8F-9644-CF9D98C6A50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC6609B-FFFE-4F8F-9644-CF9D98C6A50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC6609B-FFFE-4F8F-9644-CF9D98C6A50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A4089E5-E300-400A-B37C-0EE2A8B9AB2B}
+	EndGlobalSection
+EndGlobal
