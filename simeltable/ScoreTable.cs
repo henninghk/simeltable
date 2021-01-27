@@ -34,7 +34,7 @@ namespace simeltable
             var txt = new StringBuilder();
             foreach (var row in _rows.Values)
             {
-                txt.AppendLine($"{row._TeamName}\t| {row.GameCount}\t| {row.ScoredGoals}\t| {row.ConcededGoals}");
+                txt.AppendLine($"{row._TeamName}\t| {row.GameCount}|\t| {row.ScoredGoals}|\t| {row.ConcededGoals}|");
             }
 
             return txt.ToString();
